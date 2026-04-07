@@ -119,5 +119,5 @@ A biblioteca pode ser facilmente expandida com:
 
 ---
 
-Conclusão
+# Conclusão
 A CardGameLib fornece uma base simples e extensível para modelagem de jogos de cartas, permitindo que desenvolvedores implementem regras específicas conforme a necessidade do jogo.
