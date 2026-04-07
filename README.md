@@ -32,7 +32,7 @@ Representa o baralho de cartas.
 - Permite:
 
   - Comprar carta (Draw)
-- - Embaralhar (Shuffle)
+  - Embaralhar (Shuffle)
 
 ---
 
@@ -48,11 +48,10 @@ Representa um jogador.
 Representa a mão de um jogador.
 
 - Armazena uma lista de cartas
-- Permite:
-  
-- - Adicionar carta
-- - Remover carta
-- - Exposição controlada via IReadOnlyList
+- Permite: 
+  - Adicionar carta
+  - Remover carta
+  - Exposição controlada via IReadOnlyList
 
 ---
 
